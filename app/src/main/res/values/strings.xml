@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPS Trail Tracker</string>
+    <string name="no_location_text">No location</string>
+    <string name="preference_file_key">Location Preferences</string>
+    <string name="ok">OK</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="settings">Settings</string>
+    <string name="permission_rationale">Location permission needed to run application.</string>
+    <string name="permission_denied_explanation">Permission was denied, but is needed to run application.</string>
+
+</resources>
